@@ -1,3 +1,2 @@
-# tablesAssignment
-by Nikhil Raj
+# tablesAssignment 
 Please extract the zip file before opening the html file.
